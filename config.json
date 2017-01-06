@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "ToAddress": "artyom14@gmail.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDb;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  },
+  "Keys": {
+    "BingKey": "ArVfDquWQ31UzVSUpkOfego41YddaWIUXoFDQQGVwin9ln0eEWeWfaj0sM4CGXXR"
+  }
+}
